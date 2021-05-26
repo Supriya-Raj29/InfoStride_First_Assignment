@@ -1,3 +1,5 @@
+//BROWSING HISTORY CODE
+
 import java.util.*;
 public class First{
     public static LinkedList<String> browserhistory = new LinkedList<String>();
