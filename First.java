@@ -31,9 +31,9 @@ public static void printBrowsingHistory() {
     
 public static void main(String []args){
       Scanner scan = new Scanner(System.in);
-      //System.out.println("Welcome To Supriya Raj Broswer\n\n");
+      System.out.println("Welcome To Supriya Raj Broswer\n\n");
       
-      //System.out.println("We have Following Functions for you");
+      System.out.println("We have Following Functions for you");
       System.out.print("1.isBrowsingHistoryEmpty\n2.mostRecentlyVisitedSite"+
       "\n3.addSiteToHistory\n4.goBackInTime\n5.printBrowsingHistory");
       
